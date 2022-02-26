@@ -1,12 +1,12 @@
 <h1 align="center">Hi, Dev, Here!!👋</h1>
 <h3 align="center"> Software Developer with An Electrical Degree 👨‍💻 </h3>
 <p align="center">
--   🌱 <b><I>I CODE, Connect & Create</I></b> <br/>
--   🤝 Any type of open project proposal is invited. <br/>
+-   🌱 <b><I>I CODE, CONNECT & CREATE</I></b> <br/>
+-   🤝 Any type of Project Proposal is invited. <br/>
 -   ⚡ For fun, I socialize on Discord. <br/>
 </p>
 <p align="center">
--   💻 I'm on my Journey to be a software developer with MERN specialization. <br/>
+-   💻 I'm on my Journey to be a Developer with MERN specialization. <br/>
 -   <div> <p align="center">
 - Please listen to some of My Playlist Until I reach there.</div> <br/>
  
