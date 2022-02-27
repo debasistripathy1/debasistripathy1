@@ -6,7 +6,6 @@
 -   ⚡ For fun, I socialize on Discord. <br/>
 </p>
 <p align="center">
--   💻 I'm on my 360 Mission to be a Developer with MERN specialization. <br/>
 -   <div> <p align="center">
 - Please listen to some of My Playlist Until I reach there.</div> <br/>
  
